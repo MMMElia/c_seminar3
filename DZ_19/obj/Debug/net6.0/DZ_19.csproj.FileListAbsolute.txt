@@ -1,0 +1,15 @@
+C:\Рабочие файлы\PyProjects\c_seminar3\DZ_19\obj\Debug\net6.0\DZ_19.csproj.AssemblyReference.cache
+C:\Рабочие файлы\PyProjects\c_seminar3\DZ_19\obj\Debug\net6.0\DZ_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Рабочие файлы\PyProjects\c_seminar3\DZ_19\obj\Debug\net6.0\DZ_19.AssemblyInfoInputs.cache
+C:\Рабочие файлы\PyProjects\c_seminar3\DZ_19\obj\Debug\net6.0\DZ_19.AssemblyInfo.cs
+C:\Рабочие файлы\PyProjects\c_seminar3\DZ_19\obj\Debug\net6.0\DZ_19.csproj.CoreCompileInputs.cache
+C:\Рабочие файлы\PyProjects\c_seminar3\DZ_19\bin\Debug\net6.0\DZ_19.exe
+C:\Рабочие файлы\PyProjects\c_seminar3\DZ_19\bin\Debug\net6.0\DZ_19.deps.json
+C:\Рабочие файлы\PyProjects\c_seminar3\DZ_19\bin\Debug\net6.0\DZ_19.runtimeconfig.json
+C:\Рабочие файлы\PyProjects\c_seminar3\DZ_19\bin\Debug\net6.0\DZ_19.dll
+C:\Рабочие файлы\PyProjects\c_seminar3\DZ_19\bin\Debug\net6.0\DZ_19.pdb
+C:\Рабочие файлы\PyProjects\c_seminar3\DZ_19\obj\Debug\net6.0\DZ_19.dll
+C:\Рабочие файлы\PyProjects\c_seminar3\DZ_19\obj\Debug\net6.0\refint\DZ_19.dll
+C:\Рабочие файлы\PyProjects\c_seminar3\DZ_19\obj\Debug\net6.0\DZ_19.pdb
+C:\Рабочие файлы\PyProjects\c_seminar3\DZ_19\obj\Debug\net6.0\DZ_19.genruntimeconfig.cache
+C:\Рабочие файлы\PyProjects\c_seminar3\DZ_19\obj\Debug\net6.0\ref\DZ_19.dll
